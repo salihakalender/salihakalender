@@ -1,27 +1,28 @@
 # Welcome to My GitHub Profile! 👋  
 
-## About Me  
-Hello! My name is Saliha Saadet Kalender, and I am an experienced professional in Naval Architecture and Marine Engineering with a strong focus on energy efficiency, emissions control, and environmental research. I hold a Ph.D. and M.Sc. from Istanbul Technical University.  
+## About Me
 
-Currently, I am passionate about combining engineering, environmental science, and data science to tackle challenges like air pollution and emissions tracking. My interests also include developing innovative solutions like real-time air quality monitoring systems using sensors and machine learning.  
+Hello! My name is Saliha Saadet Kalender, and I am an experienced professional in Naval Architecture and Marine Engineering with a strong focus on energy efficiency, emissions control, and environmental research. I hold a Ph.D. and M.Sc. from Istanbul Technical University.
 
-## Skills  
+Currently, I am passionate about combining engineering, environmental science, and data science to tackle challenges like air pollution and emissions tracking. My interests also include developing innovative solutions like real-time air quality monitoring systems using sensors and machine learning.
+
+## Skills
+
 - Marine Engineering: Technical support, logistics, and operational compliance  
-- Environmental Research: Emissions tracking, Title V permitting, alternative fuels  
-- Data & Computer Science Enthusiast: Currently exploring the intersection of data science and environmental engineering  
-- Software: Basic skills in AutoCAD and an interest in enhancing my programming capabilities  
+- Environmental Research: Emissions tracking, Title V permitting, alternative fuels.
+- Data & Computer Science Enthusiast: Currently exploring the intersection of data science and environmental engineering.
+- Software: Basic skills in AutoCAD and an interest in enhancing my programming capabilities.
+  
+## Current Projects
 
-## Current Projects  
-- Air Quality Monitoring System: Designing a sensor-based system to track pollution and provide actionable insights for urban planners  
-- Exploring ways to integrate machine learning algorithms into environmental solutions  
+- Air Quality Monitoring System: Designing a sensor-based system to track pollution and provide actionable insights for urban planners.
+- Exploring ways to integrate machine learning algorithms into environmental solutions.
 
-## Certifications  
-- Internal Auditor ISM-ISPS-MLC  
-- Designated Person Ashore (DPA)  
+## Hobbies
 
-## Hobbies  
-- Traveling and exploring new places  
+- Traveling and exploring new places
 - Reading books on self-improvement and psychology  
+<!-- I want to keep the punctuation-->
+## Let’s Connect!
 
-## Let’s Connect!  
 Feel free to explore my repositories and reach out to collaborate on projects related to marine engineering, environmental solutions, or data science.
