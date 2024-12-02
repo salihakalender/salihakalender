@@ -9,14 +9,17 @@ Currently, I am passionate about combining engineering, environmental science, a
 ## Skills
 
 - Marine Engineering: Technical support, logistics, and operational compliance  
-- Environmental Research: Emissions tracking, Title V permitting, alternative fuels.
-- Data & Computer Science Enthusiast: Currently exploring the intersection of data science and environmental engineering.
-- Software: Basic skills in AutoCAD and an interest in enhancing my programming capabilities.
-  
-## Current Projects
+- Environmental Research: Emissions tracking, Title V permitting, alternative fuels  
+- Data & Computer Science Enthusiast: Currently exploring the intersection of data science and environmental engineering  
+- Software: Basic skills in AutoCAD and an interest in enhancing my programming capabilities  
 
-- Air Quality Monitoring System: Designing a sensor-based system to track pollution and provide actionable insights for urban planners.
-- Exploring ways to integrate machine learning algorithms into environmental solutions.
+## Current Projects  
+- Air Quality Monitoring System: Designing a sensor-based system to track pollution and provide actionable insights for urban planners  
+- Exploring ways to integrate machine learning algorithms into environmental solutions  
+
+## Certifications  
+- Internal Auditor ISM-ISPS-MLC  
+- Designated Person Ashore (DPA)  
 
 ## Hobbies
 
