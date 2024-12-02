@@ -15,10 +15,6 @@ Currently, I am passionate about combining engineering, environmental science, a
 - Air Quality Monitoring System: Designing a sensor-based system to track pollution and provide actionable insights for urban planners  
 - Exploring ways to integrate machine learning algorithms into environmental solutions  
 
-## Certifications  
-- Internal Auditor ISM-ISPS-MLC  
-- Designated Person Ashore (DPA)  
-
 ## Hobbies  
 - Traveling and exploring new places  
 - Reading books on self-improvement and psychology  
